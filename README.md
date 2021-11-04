@@ -5,12 +5,6 @@ The vehicle controller board and the remote control are based on the PIC16F876A 
 The objective of this project is to program both microcontrollers to provide PICaRC with the functionality to control 
 the direction and speed of the vehicle remotely by a user using the remote control.
 
-# Main files (to take a look at)
-
-"UART.vhd": Logic of the project
-
-"Prueba_transmisor.vhd": Test bench of the project 
-
 ## Starting 🚀
 
 _To get started you will need to download MPLAB, whose link can be found in Prerequisites._
