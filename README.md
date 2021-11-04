@@ -11,7 +11,7 @@ _To get started you will need to download MPLAB, whose link can be found in Prer
 
 See **Deployment** to know how to deploy the project.
 
-### Pre-requisites 📋
+## Pre-requisites 📋
 
 _Download and install ISE DS 14.7_
 
