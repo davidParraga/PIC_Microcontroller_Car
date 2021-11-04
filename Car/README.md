@@ -1,3 +1,3 @@
 # Main file
 
-Take a look at the archive Coche.asm
+Coche.asm: Logic of the software
