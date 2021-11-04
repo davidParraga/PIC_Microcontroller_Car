@@ -1,3 +1,3 @@
 # Main file
 
-Take a look at the archive Mando.asm
+"Mando.asm": Logic of the remote contol
